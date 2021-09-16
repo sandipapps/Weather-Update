@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather Update</string>
+    <!-- This is test ad unit ID for Banner ads. Replace this with your Banner ad unit ID.
+    Source: https://developers.google.com/admob/android/banner -->
+    <string name="banner_adunit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
